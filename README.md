@@ -12,7 +12,7 @@ NB!  Funksjonen for å lese inn excel-fil må kjøres først.
 
 
 Hjelpemidler som er brukt i forbindelse med løsingen av oppgaven:
-- Materiale som er utlevert i forbindelse med studie
+- Materiale som er utlevert i forbindelse med studiet
 - W3Schools sine nettsider for Python programmering
 
 
